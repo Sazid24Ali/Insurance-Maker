@@ -1,0 +1,8 @@
+This Project is "Insurance Maker"
+
+Makesure you have mysql in you'r system And edit the code ( Username, password ) in the Fifth line
+Also make sure to install mysql connector ( pip install mysql ) 
+This is menu driven program.
+In this you can create user or act as admin also I have given the information in my pdf also.
+
+Thank You!!!
